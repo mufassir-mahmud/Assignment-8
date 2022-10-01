@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Stretch Break for Desk Jobs ",
+    "information": "10-Minute Posture Reset ",
+    "Workouts": 21,
+    "time":11,
+    "movie": "Strength Training, Stretching/Flexibility, Toning, Mobility",
+    "img": "https://thumbnails.crossfit.com/mainsite/w20221001/thumbnail/MU-BIKE-th3-clean.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Resistance Band Strength ",
+    "information": "Total Body Workout for Home or Travel ",
+    "Workouts": 18,
+    "time": 39,
+    "movie": "Strength Training",
+    "img": "https://thumbnails.crossfit.com/mainsite/w20220930/thumbnail/DU-Thruster-th-clean.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Endurance Strength Training",
+    "information": "Long Circuit With Combination Moves ",
+    "Workouts": 21,
+    "time": 25,
+    "movie": " Strength Training",
+    "img": "https://thumbnails.crossfit.com/mainsite/w20220929/thumbnail/MovementCompensationPanel-th-clean.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Lower Body Strength With HIIT Finisher ",
+    "information": "Weights With Cardio EMOMs ",
+    "Workouts": 26,
+    "time":28,
+    "movie": "Cardiovascular, HIIT, Strength Training ",
+    "img": "https://thumbnails.crossfit.com/mainsite/w20220928/thumbnail/Snatch-Singles-th2-clean.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Kickboxing Warm-Up ",
+    "information": "5-Minutes of Total Body Boxing Moves ",
+    "Workouts": 21,
+    "time": 6,
+    "movie": "Warm Up/Cool Down",
+    "img": "https://thumbnails.crossfit.com/mainsite/w20220927/thumbnail/Cindy-Sean-th-clean.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Back to Basics Strength ",
+    "information": "Fundamental Exercises for the Upper and Lower Body ",
+    "Workouts": 40,
+    "time": 35,
+    "movie": "Strength Training",
+    "img": "https://thumbnails.crossfit.com/mainsite/w20220922/thumbnail/DT-heck-yeah-th-clean.jpg"
+  }
+]
